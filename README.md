@@ -1,25 +1,23 @@
 ## Hi there 👋
 
-
-
-I'm **Lingesh**, a passionate **Full Stack Developer** focused on creating beautiful, functional websites that solve real-world problems.
+I'm **Lingesh**, a passionate **Full Stack Developer** dedicated to crafting beautiful and functional websites that tackle real-world problems. 🌟
 
 ### 🔭 I’m currently working on
-- Building dynamic web applications using **React**, **Express**, **Node**, and **MongoDB**
+- Building dynamic web applications with **React**, **Express**, **Node**, and **MongoDB** 🚀
 
 ### 🌱 I’m currently learning
-- Advanced **React** and **Express.js**
+- Advanced **React** , **Express.js** , **TypeScript** , **MongoDB** 📚
 
 ### 👯 I’m looking to collaborate on
-- Full stack web development projects
-- Open source contributions
+- Full stack web development projects 💻
+- Open source contributions 🌍
 
 ### 🤔 I’m looking for help with
-- Improving my knowledge in **Full Stack Web Development**
+- Enhancing my skills in **Full Stack Web Development** 🔍
 
 ### 💬 Ask me about
-- Full stack development
-- **React**, **Express**, **Node**, and **MongoDB**
+- Full stack development 🤔
+- **React**, **Express**, **Node**, and **MongoDB** 💡
 
 ### 🛠️ Technologies & Tools
 
@@ -47,17 +45,15 @@ I'm **Lingesh**, a passionate **Full Stack Developer** focused on creating beaut
 
 ### 📫 How to reach me:
 
-- Email: [wlingesh260@gmail.com](mailto:wlingesh260@gmail.com)
-- LinkedIn: [Lingesh Patturaj](https://www.linkedin.com/in/lingeshpatturaj)
+- Email: [wlingesh260@gmail.com](mailto:wlingesh260@gmail.com) 📧
+- LinkedIn: [Lingesh Patturaj](https://www.linkedin.com/in/lingeshpatturaj) 🌐
 
 ### 😄 Pronouns:
-- He/Him
+- He/Him 🙋‍♂️
 
 ### ⚡ Fun fact:
-- I love participating in hackathons and competitions to solve real-world data challenges.
+- I love participating in hackathons and competitions to solve real-world data challenges. 🏆
 
 ---
 
-Feel free to connect with me and let's build something amazing together!
-
-
+Feel free to connect with me and let's build something amazing together! 🚀✨
