@@ -56,7 +56,7 @@ I'm **Lingesh**, a passionate **Full Stack Developer** dedicated to crafting bea
 - He/Him 🙋‍♂️
 
 ### ⚡ Fun fact:
-- I love participating in hackathons and competitions to solve real-world data challenges. 🏆
+- I love participating in hackathons and competitions to solve real-world challenges. 🏆
 
 ---
 
